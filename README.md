@@ -1,15 +1,17 @@
-### Hello World! I'm Shivang 👋
+### Hi there 👋, I am Shivang
+#### Flutter
+![Flutter](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Here are some ideas to get you started:
+Skills: C / FLUTTER / DART
 
-<!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... Flutter
-<!--- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[DM me on Twitter](https://twitter.com/xShikumix)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... It's not funny
+- 🌱 I’m currently learning FLUTTER 
+- 📫 How to reach me: [Dm me on Twitter](https://twitter.com/xShikumix) 
+- 😄 Pronouns: He/His 
 
-[![Shivang's github stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikumi-0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shikumi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_shikumi_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xShikumix)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/shikumi-0)  
