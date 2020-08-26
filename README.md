@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shivang
 #### Flutter
-![Flutter](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills: C / FLUTTER / DART
