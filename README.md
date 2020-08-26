@@ -1,4 +1,4 @@
-### Hi there 👋, I am Shivang
+### Hi there 👋, I'm Shivang
 #### Flutter
 
 
