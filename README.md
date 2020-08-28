@@ -15,12 +15,12 @@ Skills: C / FLUTTER / DART
 
 ### check out my projects:
 
-[Valorant](https://github.com/shikumi-0/Valorant)<BR></BR>
-[Snake Game](https://github.com/shikumi-0/Snake-Game)<BR></BR>
-[Anime World UI](https://github.com/shikumi-0/AnimeWorldUi)<BR></BR>
-[Anime Fandom](https://github.com/shikumi-0/Anime-Fandom-UI)<BR></BR>
-[Starbucks UI](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
-[Scanner App](https://github.com/shikumi-0/ScanIt)
+--[Valorant](https://github.com/shikumi-0/Valorant)<BR></BR>
+--[Snake Game](https://github.com/shikumi-0/Snake-Game)<BR></BR>
+--[Anime World UI](https://github.com/shikumi-0/AnimeWorldUi)<BR></BR>
+--[Anime Fandom](https://github.com/shikumi-0/Anime-Fandom-UI)<BR></BR>
+--[Starbucks UI](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
+--[Scanner App](https://github.com/shikumi-0/ScanIt)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true)  
 
