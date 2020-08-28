@@ -25,7 +25,7 @@ Skills: C / FLUTTER / DART
 ## 📸 Some ScreenShots
 |                                           |                                           |                                            |                                          
 | ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
-|      <img src="ssSB.gif" width="200">     |     <img src="gifs/ssAf.gif" width="200">      |   <img src="ssVal1.gif" width="200">  |                                          
+|      <img src="ssSB.gif" width="200">     |     <img src="gifs/ssAf.gif" width="200">      |   <img src="ss.gif" width="200">  |                                          
 
 
 
