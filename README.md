@@ -25,7 +25,7 @@ Skills: C / FLUTTER / DART
 ## 📸 Some ScreenShots
 |                                           |                                           |                                            |                                          
 | ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
-|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="200">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="200">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="200">  |                                          
+|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="200">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="200">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSb.gif" width="200">  |                                          
 
 
 
