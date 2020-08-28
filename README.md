@@ -22,6 +22,15 @@ Skills: C / FLUTTER / DART
 --[Starbucks UI](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
 --[Scanner App](https://github.com/shikumi-0/ScanIt)
 
+## 📸 Some ScreenShots
+|                                           |                                           |                                            |                                          
+| ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
+|      <img src="ssSB.gif" width="200">     |     <img src="gifs/ssAf.gif" width="200">      |   <img src="ssVal1.gif" width="200">  |                                          
+
+
+
+ <BR></BR>
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/shikumi-0)  
