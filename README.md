@@ -3,7 +3,7 @@
 
 
 
-Skills: C / FLUTTER / DART
+Skills: C / FLUTTER / DART / SQL
 
 - 🌱 I’m currently learning FLUTTER 
 - 📫 How to reach me: [Dm me on Twitter](https://twitter.com/xShikumix) 
