@@ -1,3 +1,4 @@
+
 ### Hello World! I'm Shivang 👋
 #### Flutter
 
@@ -40,17 +41,18 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 |      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="180" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="180" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="180" height="400">  |   
  
  
-
+<p align="center">
 
 ### Can you break these counter?
 
+
 ![Visitor Count](https://profile-counter.glitch.me/shikumi-0/count.svg)
 
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/shikumi-0)  
 
-
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 
