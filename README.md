@@ -29,18 +29,15 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 ### check out some of my projects:
  
 
---[`Valorant`](https://github.com/shikumi-0/Valorant)<BR></BR>
---[`Snake Game`](https://github.com/shikumi-0/Snake-Game)<BR></BR>
---[`Anime World UI`](https://github.com/shikumi-0/AnimeWorldUi)<BR></BR>
---[`Anime Fandom`](https://github.com/shikumi-0/Anime-Fandom-UI)<BR></BR>
---[`Starbucks UI`](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
---[`Scanner App`](https://github.com/shikumi-0/ScanIt)
+| --[`Valorant`](https://github.com/shikumi-0/Valorant)            | --[`Snake Game`](https://github.com/shikumi-0/Snake-Game)     | --[`Anime World UI`](https://github.com/shikumi-0/AnimeWorldUi) |
+|------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
+| --[`Anime Fandom`](https://github.com/shikumi-0/Anime-Fandom-UI) | --[`Starbucks UI`](https://github.com/shikumi-0/Starbucks-UI) | --[`Scanner App`](https://github.com/shikumi-0/ScanIt)          |
 
  
  ## 📸 Some ScreenShots
 |                                           |                                           |                                            |                                          
 | ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
-|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="200">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="200">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="200">  |   
+|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="180" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="180" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="180" height="400">  |   
  
  
 
