@@ -26,7 +26,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikumi-0&layout=compact" alt="shikumi-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true" alt="shikumi-0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true&count_private=true" alt="shikumi-0" /></p>
                                       
 <hr>
 
