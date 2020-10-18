@@ -5,9 +5,12 @@
 
 Skills: C / FLUTTER / DART /MYSQL
 
+- 🔭 I’m currently working in one of thestartups -Citoto.
 - 🌱 I’m currently learning FLUTTER 
 - 📫 How to reach me: [Dm me on Twitter](https://twitter.com/xShikumix) 
-- 😄 Pronouns: He/His 
+- 😄 Pronouns: He/His
+- 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
+- ❤️ In Love with : Flutter
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikumi-0)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shikumi/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_shikumi_/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xShikumix)  
@@ -31,6 +34,6 @@ Skills: C / FLUTTER / DART /MYSQL
 
  <BR></BR>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true&count_private=true&title_color=ffffff&icon_color=ffbf00&text_color=ffffff&bg_color=27363e)  
 
 ![Profile views](https://gpvc.arturio.dev/shikumi-0)  
