@@ -38,7 +38,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
  ## 📸 Some ScreenShots
 |                                           |                                           |                                            |                                          
 | ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
-|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="180" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="180" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="180" height="400">  |   
+|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="190" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="190" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="190" height="400">  |   
  
  
 
