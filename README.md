@@ -1,5 +1,5 @@
 
-### Hello World! I'm Shivang 👋
+### Hello World! I'm Shivang <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 #### Flutter
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -42,12 +42,12 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
  
  
 
-<center>
-<h3 align= "center"> Can you break these counter?</h3>
+
+<h3 > Can you break these counter?</h3>
 
 <img align="center" src="https://profile-counter.glitch.me/shikumi-0/count.svg" >
 
-</center>
+
 
 
 ![Profile views](https://gpvc.arturio.dev/shikumi-0)  
