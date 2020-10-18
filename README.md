@@ -22,11 +22,11 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikumi-0&layout=compact" alt="shikumi-0" /></p>
-<BR></BR>
-<BR></BR>
-<BR></BR>
-<BR></BR>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true" alt="shikumi-0" /></p>
+
+
+                                       
 
 ### check out some of my projects:
 
@@ -37,17 +37,17 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 --[Starbucks UI](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
 --[Scanner App](https://github.com/shikumi-0/ScanIt)
 
-## 📸 Some ScreenShots
-|                                           |                                           |                                            |                                          
-| ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
-|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="200">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="200">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="200">  |                                          
-
 
 
  <BR></BR>
  
+ ## 📸 Some ScreenShots
+|                                           |                                           |                                            |                                          
+| ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
+|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="200">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="200">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="200">  |   
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true&count_private=true&title_color=ffffff&icon_color=ffbf00&text_color=ffffff&bg_color=27363e)  
+ 
+
 
 
 
