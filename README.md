@@ -3,7 +3,7 @@
 
 
 
-Skills: C / FLUTTER / DART /MYSQL
+Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 - 🔭 I’m currently working in one of thestartups -Citoto.
 - 🌱 I’m currently learning FLUTTER 
