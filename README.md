@@ -24,22 +24,18 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikumi-0&layout=compact" alt="shikumi-0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true" alt="shikumi-0" /></p>
-
-
-                                       
+                                      
 
 ### check out some of my projects:
+ 
 
---[Valorant](https://github.com/shikumi-0/Valorant)<BR></BR>
---[Snake Game](https://github.com/shikumi-0/Snake-Game)<BR></BR>
---[Anime World UI](https://github.com/shikumi-0/AnimeWorldUi)<BR></BR>
---[Anime Fandom](https://github.com/shikumi-0/Anime-Fandom-UI)<BR></BR>
---[Starbucks UI](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
---[Scanner App](https://github.com/shikumi-0/ScanIt)
+--[`Valorant`](https://github.com/shikumi-0/Valorant)<BR></BR>
+--[`Snake Game`](https://github.com/shikumi-0/Snake-Game)<BR></BR>
+--[`Anime World UI`](https://github.com/shikumi-0/AnimeWorldUi)<BR></BR>
+--[`Anime Fandom`](https://github.com/shikumi-0/Anime-Fandom-UI)<BR></BR>
+--[`Starbucks UI`](https://github.com/shikumi-0/Starbucks-UI)<BR></BR>
+--[`Scanner App`](https://github.com/shikumi-0/ScanIt)
 
-
-
- <BR></BR>
  
  ## 📸 Some ScreenShots
 |                                           |                                           |                                            |                                          
