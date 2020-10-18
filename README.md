@@ -42,6 +42,9 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
  
 
 
+### Can you break these counter?
+
+![Visitor Count](https://profile-counter.glitch.me/shikumi-0/count.svg)
 
 
 ![Profile views](https://gpvc.arturio.dev/shikumi-0)  
