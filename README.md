@@ -41,14 +41,14 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 |      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="180" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="180" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="180" height="400">  |   
  
  
-<p align="center">
 
-### Can you break these counter?
+<center>
+<h3 align= "center"> Can you break these counter?</h3>
 
+<img align="center" src="https://profile-counter.glitch.me/shikumi-0/count.svg" >
 
-![Visitor Count](https://profile-counter.glitch.me/shikumi-0/count.svg)
+</center>
 
-</p>
 
 ![Profile views](https://gpvc.arturio.dev/shikumi-0)  
 
