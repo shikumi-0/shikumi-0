@@ -1,8 +1,10 @@
 
-### Hello World! I'm Shivang <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+## Hello World! I'm Shivang <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 - 🔭 I’m currently working in one of the startup -BREEZY.
@@ -15,7 +17,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikumi-0)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shikumi/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_shikumi_/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xShikumix)  
 
-
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <BR></BR>
@@ -26,6 +28,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true" alt="shikumi-0" /></p>
                                       
+<hr>
 
 ### check out some of my projects:
  
@@ -41,7 +44,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 |      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="190" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="190" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="190" height="400">  |   
  
  
-
+<hr>
 
 <h3 > Can you break these counter?</h3>
 
