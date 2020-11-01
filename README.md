@@ -7,7 +7,6 @@
 
 Skills: C / FLUTTER / DART / MYSQL / JAVA
 
-- 🔭 I’m currently working in one of the startup -BREEZY.
 - 🌱 I’m currently learning FLUTTER 
 - 📫 How to reach me: [Dm me on Twitter](https://twitter.com/xShikumix) 
 - 😄 Pronouns: He/His
