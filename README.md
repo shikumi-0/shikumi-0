@@ -1,6 +1,8 @@
 
-## Hello World! I'm Shivang <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
-
+<h1 align="center"> Hello World! I'm Shivang 
+  
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -20,48 +22,86 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 <hr>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2 align="center">🏆 Github Profile Trophy</h2></a>
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shikumi-0&column=8&theme=monokai&no-frame=true&margin-w=12&margin-h=15"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shikumi-0&column=6&theme=monokai&no-frame=true&margin-w=12&margin-h=15"/>
 </a>
+</p>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <BR></BR>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center"> <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code> 
+ <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikumi-0&layout=compact" alt="shikumi-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true&count_private=true" alt="shikumi-0" /></p>
                                       
+
+
 <hr>
 
-### check out some of my projects:
- 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=shikumi-0&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=shikumi-0&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikumi-0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shikumi-0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-| --[`Valorant`](https://github.com/shikumi-0/Valorant)            | --[`Snake Game`](https://github.com/shikumi-0/Snake-Game)     | --[`Anime World UI`](https://github.com/shikumi-0/AnimeWorldUi) |
-|------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|
-| --[`Anime Fandom`](https://github.com/shikumi-0/Anime-Fandom-UI) | --[`Starbucks UI`](https://github.com/shikumi-0/Starbucks-UI) | --[`Scanner App`](https://github.com/shikumi-0/ScanIt)          |
+<hr>
 
- 
- ## 📸 Some ScreenShots
-|                                           |                                           |                                            |                                          
-| ----------------------------------------- | ----------------------------------------- |  ----------------------------------------- |
-|      <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ss.gif" width="190" height="400">     |     <img src="https://github.com/shikumi-0/shikumi-0/blob/master/gifs/ssAf.gif" width="190" height="400">      |   <img src="https://github.com/shikumi-0/shikumi-0/blob/master/ssSB.gif" width="190" height="400">  |   
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/shikumi-0/Snake-Game" title="Snake-Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shikumi-0&repo=Snake-Game&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/shikumi-0/ScanIt" title="ScanIt"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shikumi-0&repo=ScanIt&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/shikumi-0/Valorant-Community" title="Valorant-Community"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shikumi-0&repo=Valorant-Community&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/shikumi-0/AnimeWorldUi" title="AnimeWorldUi"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shikumi-0&repo=AnimeWorldUi&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/shikumi-0/Starbucks-UI" title="Starbucks-UI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shikumi-0&repo=Starbucks-UI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/shikumi-0/NIke-Shoes-UI" title="NIke-Shoes-UI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shikumi-0&repo=NIke-Shoes-UI&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/shikumi-0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
  
  
 <hr>
 
-<h3 > Can you break these counter?</h3>
-
+<h3 align="center"> Can you break these counter?</h3>
+<div align="center">
 <img align="center" src="https://profile-counter.glitch.me/shikumi-0/count.svg" >
+</div>
+                                                                             
 
 
+<br>
 
-
-
-<p></br></p>
 <p align="center">
   <a href="https://in.linkedin.com/in/shikumi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shikumi"/></a> 
   <a href="https://shikumi.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="shikumi" /></a> 
