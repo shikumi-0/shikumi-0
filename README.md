@@ -25,7 +25,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2 align="center">🏆 Github Profile Trophy</h2></a>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shikumi-0&column=6&theme=monokai&no-frame=true&margin-w=12&margin-h=15"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shikumi-0&column=6&theme=nord&no-frame=true&margin-w=12&margin-h=15"/>
 </a>
 </p>
 
@@ -69,7 +69,7 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=shikumi-0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 </p>
 
 <hr>
@@ -121,5 +121,5 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 
 
-
+<!---<img src="https://activity-graph.herokuapp.com/graph?username=shikumi-0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>--->
 
