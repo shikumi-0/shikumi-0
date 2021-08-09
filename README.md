@@ -32,10 +32,17 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 ---
 <h2 align="center">Languages and Tools:</h2>
 <BR></BR>
-<p align="center"> <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code> 
- <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code></p>
+<p align="center">
+   <code><img title="Java" width="60px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="Android" width="60px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
+  <code><img title="Flutter" width="60px" src="https://img.icons8.com/color/2x/flutter.png"></code>
+  <code><img title="GitHub" width="60px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg">
+  <code><img title="C" width="60px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" width="60px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code> 
+ <code><img title="HTML5" width="50px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" width="70px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Visual Studio Code" width="60px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code></code>
+  <code><img title="MySQL" width="60px"src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code></p>
 
 
 
