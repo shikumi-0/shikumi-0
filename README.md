@@ -5,6 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
+<BR></BR>
 Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 - 🌱 I’m currently learning FLUTTER 
@@ -13,8 +14,9 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 - 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
 - ❤️ In Love with : Flutter
 
+![Profile views](https://gpvc.arturio.dev/shikumi-0)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikumi-0)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shikumi/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_shikumi_/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xShikumix)  
+
 
 <hr>
 
@@ -58,12 +60,17 @@ Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 
 
-![Profile views](https://gpvc.arturio.dev/shikumi-0)  
+
+<p></br></p>
+<p align="center">
+  <a href="https://in.linkedin.com/in/shikumi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shikumi"/></a> 
+  <a href="https://shikumi.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="shikumi" /></a> 
+  <a href="https://twitter.com/xShikumix" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+</p>  
+
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
 
 
 
