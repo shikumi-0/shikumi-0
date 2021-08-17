@@ -11,7 +11,7 @@
 Skills: C / FLUTTER / DART / MYSQL / JAVA
 
 - 🌱 I’m currently learning FLUTTER 
-- 📫 How to reach me: [Dm me on Twitter](https://twitter.com/__shikumi__) [Text me on WhatsApp](https://wa.me/919149256646)
+- 📫 How to reach me: [Dm me on Twitter](https://twitter.com/__shikumi__) || [Text me on WhatsApp](https://wa.me/919149256646)
 - 😄 Pronouns: He/His
 - 🕒 My Schedule - Code ➸ Commit ➸ Push ➸ Repeat
 - ❤️ In Love with : Flutter
